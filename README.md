@@ -4,19 +4,33 @@
   <h1>🌐 Thayss Tech Hub</h1>
   <p><strong>Professional Portfolio & Centralized Engineering Architecture</strong></p>
 
-  <p>
-    <a href="https://thayss-tech.github.io/WEB/">
-      <img src="https://img.shields.io/badge/Website-Live-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-    <img src="https://img.shields.io/badge/Data_Science-Interface-informational?style=for-the-badge&logo=python&logoColor=white" />
-  </p>
+<p>
+  <a href="https://thayss-tech.github.io/WEB/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-Live-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 
-  <p>
+  <a href="https://thayss-tech.github.io/WEB/" target="_blank">
+    <img src="https://img.shields.io/badge/Data_Science-Interface-informational?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+</p>
+
+<p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  </a>
+
+  <a href="https://sass-lang.com/documentation/" target="_blank">
     <img src="https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  </p>
+  </a>
+</p>
 
 </div>
 
