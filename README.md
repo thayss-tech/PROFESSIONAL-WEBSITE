@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Thayss Tech Hub</h1>
-  <p><strong>Professional Portfolio & Centralized Architecture</strong></p>
+  <p><strong>Professional Website & Centralized Architecture</strong></p>
 
   <p>
     <a href="https://thayss-tech.github.io/WEB/">
