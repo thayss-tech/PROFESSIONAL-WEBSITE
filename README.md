@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Thayss Tech Hub</h1>
+  <h1> 🌐Thayss Tech Hub</h1>
   <p><strong>Applied Data Science Portfolio</strong></p>
 
   <p>
