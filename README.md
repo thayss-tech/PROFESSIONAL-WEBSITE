@@ -5,11 +5,11 @@
   <p><strong>Professional Portfolio & Centralized Engineering Architecture</strong></p>
 
 <p>
-  <a href="https://thayss-tech.github.io/WEB/" target="_blank">
+  <a href="https://thayss-tech.github.io/PROFESSIONAL-WEBSITE/ " target="_blank">
     <img src="https://img.shields.io/badge/Website-Live-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="https://thayss-tech.github.io/WEB/" target="_blank">
+  <a href="https://thayss-tech.github.io/PROFESSIONAL-WEBSITE/" target="_blank">
     <img src="https://img.shields.io/badge/Data_Science-Interface-informational?style=for-the-badge&logo=python&logoColor=white" />
   </a>
 </p>
@@ -127,7 +127,7 @@ If you like this design and want to use it as a template for your own portfolio,
 ## <a id="repository-map"></a>🗺️ Repository Map
 
 ```text
-WEB/
+PROFESSIONAL-WEBSITE/
  ┃
  ┣ 📄 index.html          # Structural Core (Master Document)
  ┣ 📁 assets/             # Technical Engine
@@ -155,7 +155,7 @@ The technical gateway is deployed utilizing **GitHub Pages**, ensuring:
 
 | Type | Link |
 | :--- | :--- |
-| **🌐 Live Version** | [https://thayss-tech.github.io/WEB/](https://thayss-tech.github.io/WEB/) |
+| **🌐 Live Version** | [https://thayss-tech.github.io/PROFESSIONAL-WEBSITE/](https://thayss-tech.github.io/PROFESSIONAL-WEBSITE/)
 
 ---
 
@@ -165,8 +165,10 @@ The technical gateway is deployed utilizing **GitHub Pages**, ensuring:
 
 | Platform | Profile | Action |
 | :--- | :--- | :--- |
-| **LinkedIn** | Milton Mamani | [View Profile](https://www.linkedin.com/in/milton-mamani-1369a537b) |
-| **GitHub** | thayss-tech | [Explore Repos](https://github.com/thayss-tech) |
+| **🌐 Portfolio** | My Personal Website | [Visit Website](https://thayss-tech.github.io/PROFESSIONAL-WEBSITE/) |
+| **💼 LinkedIn** | Milton Mamani | [View Profile](https://www.linkedin.com/in/milton-mamani-1369a537b) |
+| **💻 GitHub** | thayss-tech | [Explore Repos](https://github.com/thayss-tech) |
+| **📧 Email** | Contact Me | [Send Message](mailto:miltonmau14@gmail.com) |
 
 <br />
 
